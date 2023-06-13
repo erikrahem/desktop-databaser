@@ -4,6 +4,8 @@
 
 # Components
 
+Book
+
 Document Databaser
 
 Journal
